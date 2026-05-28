@@ -35,9 +35,9 @@ telecom-churn-analysis/
 │   └── data_cleaning.sql               # Data cleaning & validation
 │   └── exploratory_analysis.sql        # Exploratory SQL queries
 ├── screenshots/
-│   ├── dashboard_overview.jpg
-│   ├── dashboard_churn_drivers.jpg
-│   └── dashboard_retention.jpg
+│   ├── dashboard_overview.png
+│   ├── dashboard_churn_drivers.png
+│   └── dashboard_retention.png
 └── README.md
 ```
 
